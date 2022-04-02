@@ -1,5 +1,5 @@
-# meals_app
+# Meals App
 
-A new Flutter meals_app.
+A new Flutter Meals App.
 
 ## Getting Started
